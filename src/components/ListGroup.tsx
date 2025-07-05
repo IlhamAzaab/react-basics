@@ -36,7 +36,7 @@ function ListGroup({ items, heading, onSelectItem }: Props) {
       </ul>
       {items.length > 0 && (
         <div className="alert alert-success" role="alert">
-          Succcess
+          Fine
         </div>
       )}
 
